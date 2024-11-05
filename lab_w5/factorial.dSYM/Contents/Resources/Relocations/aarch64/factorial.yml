@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/apple/VGU/VGU Material/YEAR 2/Programming 1/programming-1-forked/lab_w5/factorial'
+relocations:     []
+...
